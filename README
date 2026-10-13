@@ -1,8 +1,1 @@
-# Sistema de Gestión Académica
-
 Trabajo práctico de **Bases de Datos 2**: diseño e implementación de una base de datos relacional para registrar el avance académico de estudiantes de la **Licenciatura en Sistemas**.
-
-## Objetivo
-
-Modelar alumnos, docentes, carreras, materias, cursadas y exámenes finales, manteniendo la información histórica necesaria para consultar inscripciones, resultados, recursadas, cambios de horarios y participación docente. También se contempla la organización de los programas de las materias y el banco de preguntas de evaluación.
-
